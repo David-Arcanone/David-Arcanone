@@ -6,7 +6,11 @@
 <div align="center">
 <img src="./src/img/robot.gif" alt="robot" height="400">
  <br/>
-⚡Учусь и совершенствуюсь⚡
+<div align="left">
+> Good software, like wine, takes time..
+
+— Joel Spolsky
+ </div>
  </div></td><td valign="top" width="60%">
 
 <div align="center">
@@ -30,10 +34,7 @@
 <img src="./src/img/git.svg" alt="git" height="50">
 </div></td></tr></table>
 
-<dl>
-> Good software, like wine, takes time..
+### <div align="center">⚡Учусь и совершенствуюсь⚡</div>
 
-— Joel Spolsky
- </dl>
 
 
