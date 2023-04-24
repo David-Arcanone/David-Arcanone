@@ -30,4 +30,8 @@
 <img src="./src/img/git.svg" alt="git" height="50">
 </div></td></tr></table>
 
+> Good software, like wine, takes time..
+
+— Joel Spolsky
+
 
