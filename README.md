@@ -7,7 +7,7 @@
 <img src="./src/img/robot.gif" alt="robot" height="400">
  <br/>
 <div align="left">
-> Good software, like wine, takes time..
+> Good software, like wine, takes time.
 
 — Joel Spolsky
  </div>
