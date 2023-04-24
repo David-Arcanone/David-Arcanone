@@ -8,16 +8,16 @@
 
 ### Стек технологий:
 <p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="22">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="24">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="24" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="22"> 
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="22" /> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="22">
+<img src="./src/img/vscode.svg" alt="VS Code" height="22">
+<img src="./src/img/html.svg" alt="HTML" height="24">
+<img src="./src/img/CSS3.svg" alt="CSS" height="24" >
+<img src="./src/img/js.svg" alt="Javascript" height="22"> 
+<img src="./src/img/typesript.svg" alt="TypeScript" height="22" /> 
+<img src="./src/img/react.svg" alt="React" height="22">
+<img src="./src/img/node.svg" alt="NodeJS" height="22">
 <img src="./src/img/python.svg" alt="python" height="22">
 <img src="./src/img/C.svg" alt="C++" height="22">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22">
+<img src="./src/img/git.svg" alt="git" height="22">
 </p>
 <br/>
 <img src="./src/img/robot.gif" alt="robot" height="400">
