@@ -15,7 +15,10 @@
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="22" /> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="22">
+<img src="./src/img/python.svg" alt="python" height="22">
+<img src="./src/img/C.svg" alt="C++" height="22">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22">
 </p>
 <br/>
+<img src="./src/img/robot.gif" alt="robot" height="400">
 
