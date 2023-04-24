@@ -1,11 +1,12 @@
 ### Доброго времени суток 👋
 ### Я Давид Григорьев - начинающий frontend developer.
 <table><tr><td valign="top" width="50%">
-
+ 
+<div align="center">
 <img src="./src/img/robot.gif" alt="robot" height="400">
  <br/>
 ⚡Учусь и совершенствуюсь⚡
- </td><td valign="top" width="50%">
+ </div></td><td valign="top" width="50%">
 
 <div align="center">
  
