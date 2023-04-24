@@ -3,6 +3,7 @@
 <table><tr><td valign="top" width="50%">
 
 <img src="./src/img/robot.gif" alt="robot" height="400">
+ <br/>
 ⚡Учусь и совершенствуюсь⚡
  </td><td valign="top" width="50%">
 
