@@ -24,6 +24,7 @@
 <img src="./src/img/vscode.svg" alt="VS Code" height="50">
 <img src="./src/img/android_studio.svg" alt="android studio" height="50">
 <img src="./src/img/android.svg" alt="android" height="50">
+<img src="./src/img/kotlin.svg" alt="Kotlin" height="50">
 <img src="./src/img/html.svg" alt="HTML" height="50">
 <img src="./src/img/CSS3.svg" alt="CSS" height="50" >
 <img src="./src/img/js.svg" alt="Javascript" height="50"> 
